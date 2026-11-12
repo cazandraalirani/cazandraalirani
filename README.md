@@ -1,6 +1,6 @@
 # Hi, I'm Cazandra 👋
 
-Psychology graduate (University of Gothenburg) with a focus on **UX research, market research and project/product ownership**. I'm interested in understanding people and turning that into better products and well-run projects.
+Psychology graduate (University of Gothenburg) with a focus on **UX research, market research and project & product management**. I'm interested in understanding people and turning that into better products and well-run projects.
 
 ## Selected work
 
