@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Cazandra 👋
 
-<!--
-**cazandraal/cazandraal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Psychology graduate (University of Gothenburg) with a focus on **UX research, market research and project/product ownership**. I'm interested in understanding people and turning that into better products and well-run projects.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it shows |
+|---|---|
+| [Snake Game: project management case](https://github.com/[cazandraal]/snake-project-management) | Planning, risk management and monitoring in a 10-week team project |
+| [Emergency Response Portal: UX case](https://github.com/[cazandraal]/ux-emergency-response-portal) | Requirements, personas, prototype and usability testing |
+| [SQL databases](https://github.com/[cazandraal]/sql-databases) | Database design and queries |
+| [Wearcast](https://youtu.be/kn96rUHvSbA?si=9XUyCf5qHNkNTf2L) | Your personal stylist - Ready for any weather |
+
+## Skills
+UX research · Usability testing · Requirements engineering · Project planning · Survey design · Basic SQL
+
+## Contact
+www.linkedin.com/in/cazandra-alirani-6b19a11bb · cazandra@live.se
