@@ -6,9 +6,9 @@ Psychology graduate (University of Gothenburg) with a focus on **UX research, ma
 
 | Project | What it shows |
 |---|---|
-| [Snake Game: project management case](https://github.com/[cazandraal]/snake-project-management) | Planning, risk management and monitoring in a 10-week team project |
-| [Emergency Response Portal: UX case](https://github.com/[cazandraal]/ux-emergency-response-portal) | Requirements, personas, prototype and usability testing |
-| [SQL databases](https://github.com/[cazandraal]/sql-databases) | Database design and queries |
+| [Snake Game: project management case](https://github.com/[cazandraalirani]/snake-project-management) | Planning, risk management and monitoring in a 10-week team project |
+| [Emergency Response Portal: UX case](https://github.com/[cazandraalirani]/ux-emergency-response-portal) | Requirements, personas, prototype and usability testing |
+| [SQL databases](https://github.com/[cazandraalirani]/sql-databases) | Database design and queries |
 | [Wearcast](https://youtu.be/kn96rUHvSbA?si=9XUyCf5qHNkNTf2L) | Your personal stylist - Ready for any weather |
 
 ## Skills
